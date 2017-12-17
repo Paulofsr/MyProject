@@ -1,0 +1,11 @@
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\bin\Debug\MyLibrary.dll
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Paulo\Pessoal\Project\MyProject\WindowsFormsApp1\bin\Debug\MyLibrary.pdb

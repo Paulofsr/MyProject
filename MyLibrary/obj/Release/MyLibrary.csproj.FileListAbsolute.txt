@@ -1,0 +1,5 @@
+D:\Paulo\Pessoal\Project\MyProject\MyLibrary\bin\Release\MyLibrary.dll
+D:\Paulo\Pessoal\Project\MyProject\MyLibrary\bin\Release\MyLibrary.pdb
+D:\Paulo\Pessoal\Project\MyProject\MyLibrary\obj\Release\MyLibrary.csprojResolveAssemblyReference.cache
+D:\Paulo\Pessoal\Project\MyProject\MyLibrary\obj\Release\MyLibrary.dll
+D:\Paulo\Pessoal\Project\MyProject\MyLibrary\obj\Release\MyLibrary.pdb
